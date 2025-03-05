@@ -1,0 +1,77 @@
+.top-head {
+    font-size: 20px;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.top-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 35vh;
+    background-size: cover;
+}
+
+.img-head {
+    color: white;
+    padding: 15px;
+    font-weight: solid;
+}
+
+.card-con {
+    border-left-width: 10px;
+    text-align: left;
+    margin: 10px;
+}
+
+.buttom-img {
+    height: 110px;
+    width: 150px;
+
+}
+
+.img-heading {
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.img-para {
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.puri-top-bg {
+    background-color: blue;
+    background-size: cover;
+}
+
+.puri-page-head {
+    font-size: 20px;
+    font-family: Roboto;
+    color: black;
+}
+
+.image {
+    padding: 10px;
+    height: 140px;
+    width: 150px;
+}
+
+.puri-top-matter {
+    padding: 10px;
+    color: white;
+}
+
+.puri-top-matter-head {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.molecular {
+    text-align: center;
+    padding: 10px;
+}
+
+.but {
+    text-align: right;
+}
